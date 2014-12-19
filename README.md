@@ -15,7 +15,7 @@ The scrip is divide in the following steps:
 - 10.Data frames asociated with the train examples are **subjects_train** and **X_train**.
 - 11.The merged data frame of the train examples is called **train**.
 - 12.Merging of **test** and **train** data frames.
-- 13.Reshaping of the complete data using melt and dcast comands.
+- 13.Reshaping of the complete data using melt and dcast comands.The data frame **finalData** is obtained.
 - 14.Writting of the tidydata.text in the folder of the project.
 
 Variables are shown in **bold**
