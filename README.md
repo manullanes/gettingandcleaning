@@ -1,4 +1,3 @@
-gettingandcleaning
-==================
+##Getting and Cleaning Data Project
+=================================
 
-Repo with the solution of the Course Project of Getting and Cleaning Data
