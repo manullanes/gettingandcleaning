@@ -4,7 +4,7 @@
 The scrip is divide in the following steps:
 
 - 1.Setting of the working directory.
-- 2.Reading of the features labels (only mean and standard deviation). Values are saved in teh data frame **features**.
+- 2.Reading of the features labels (only mean and standard deviation). Values are saved in the data frame **features**.
 - 3.Reading of the activity labels. Values are saved in the data frame **activity**.
 - 4.Setting of the test example directory.
 - 5.Reading of the subject test for the selected features. Values are saved in the data frame **subject_test**.
