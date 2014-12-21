@@ -1,7 +1,7 @@
 ##Getting and Cleaning Data Project
 =================================
-# Script run_analysis.R
-The script is divide in the following steps:
+### Script run_analysis.R
+The script is divided in the following steps:
 
 - 1.Setting of the working directory.
 - 2.Reading of the features labels (only mean and standard deviation). Values are saved in the data frame **features**.
@@ -20,7 +20,7 @@ The script is divide in the following steps:
 
 Variables are shown in **bold**
 
-#CODE BOOK
+### CODE BOOK
 id_subject-> Each row identifies the subject who performed the activity for each window sample.
 
 features-> labels with their activity name.
