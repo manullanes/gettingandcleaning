@@ -19,3 +19,28 @@ The scrip is divide in the following steps:
 - 14.Writting of the tidydata.text in the folder of the project.
 
 Variables are shown in **bold**
+
+#CODE BOOK
+id_subject-> Each row identifies the subject who performed the activity for each window sample.
+
+features-> labels with their activity name.
+   WALKING, WALKING UPSTAIR, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+   
+The mean and the standard deviation of the following variables:
+- tBodyAcc-XYZ
+- tGravityAcc-XYZ
+- tBodyAccJerk-XYZ
+- tBodyGyro-XYZ
+- tBodyGyroJerk-XYZ
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ
+- fBodyAccJerk-XYZ
+- fBodyGyro-XYZ
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
