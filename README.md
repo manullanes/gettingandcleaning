@@ -1,7 +1,7 @@
 ##Getting and Cleaning Data Project
 =================================
-
-The scrip is divide in the following steps:
+# Script run_analysis.R
+The script is divide in the following steps:
 
 - 1.Setting of the working directory.
 - 2.Reading of the features labels (only mean and standard deviation). Values are saved in the data frame **features**.
